@@ -1,800 +1,711 @@
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:22:55
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:22:56
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:22:56
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:22:57
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:22:58
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:22:58
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:22:59
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:00
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:00
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:01
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:01
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:02
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:03
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:04
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:04
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:05
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:05
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:06
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:07
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:07
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:08
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:09
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:09
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:10
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:11
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:11
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:12
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:13
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:13
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:14
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:15
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:16
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:17
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:17
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:18
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:19
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:19
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:20
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:21
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:22
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:22
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:23
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:23
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:24
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:24
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:25
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:26
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:26
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:27
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:28
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:28
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:29
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:29
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:30
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:31
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:31
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:32
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:32
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:33
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:34
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:34
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:35
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:36
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:36
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:37
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:39
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:39
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:40
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:40
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:41
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:41
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:42
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:43
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:43
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:44
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:45
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:45
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:46
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:47
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:47
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:48
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:48
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:49
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:50
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:50
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:51
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:52
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:52
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:53
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:54
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:54
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:55
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:55
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:56
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:57
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:23:57
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:58
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:59
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:23:59
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:00
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:02
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:02
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:03
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:03
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:04
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:05
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:05
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:06
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:07
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:07
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:08
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:09
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:09
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:10
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:10
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:11
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:12
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:12
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:13
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:13
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:14
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:15
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:16
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:16
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:17
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:18
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:18
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:19
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:19
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:20
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:21
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:21
-Arquivo AC 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:22
-Arquivo AC 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:23
-Arquivo AC 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:23
-Arquivo AC 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:24
-Arquivo AC 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:26
-Arquivo AC 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:26
-Arquivo AC 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:27
-Arquivo AC 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:28
-Arquivo AC 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:28
-Arquivo AC 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:29
-Arquivo AC 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:29
-Arquivo AC 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:30
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:31
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:32
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:33
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:34
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:35
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:35
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:36
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:36
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:37
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:38
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:38
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:39
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:40
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:41
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:42
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:43
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:43
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:44
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:45
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:45
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:46
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:46
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:47
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:48
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:49
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:51
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:52
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:53
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:53
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:54
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:55
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:55
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:56
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:56
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:57
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:24:57
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:24:59
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:00
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:01
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:02
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:02
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:03
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:03
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:04
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:05
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:05
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:06
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:06
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:07
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:08
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:09
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:10
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:11
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:12
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:12
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:13
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:13
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:14
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:15
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:15
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:16
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:17
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:18
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:20
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:20
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:21
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:21
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:22
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:22
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:23
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:24
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:24
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:25
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:26
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:27
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:28
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:29
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:30
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:30
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:31
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:31
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:32
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:33
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:33
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:34
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:35
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:36
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:37
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:38
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:38
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:39
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:40
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:40
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:41
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:41
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:42
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:43
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:44
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:45
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:46
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:47
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:47
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:48
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:48
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:49
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:49
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:50
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:51
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:52
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:53
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:54
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:25:55
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:55
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:56
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:56
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:57
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:57
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:58
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:59
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:25:59
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:00
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:01
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:02
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:03
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:04
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:04
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:05
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:06
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:06
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:07
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:07
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:08
-Arquivo AL 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:09
-Arquivo AL 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:10
-Arquivo AL 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:12
-Arquivo AL 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:13
-Arquivo AL 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:14
-Arquivo AL 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:14
-Arquivo AL 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:15
-Arquivo AL 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:15
-Arquivo AL 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:16
-Arquivo AL 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:16
-Arquivo AL 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:17
-Arquivo AL 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:18
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:20
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:21
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:23
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:24
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:25
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:25
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:26
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:26
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:27
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:27
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:28
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:29
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:30
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:32
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:35
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:36
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:37
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:37
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:38
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:38
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:39
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:39
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:40
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:40
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:42
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:43
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:44
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:45
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:46
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:46
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:47
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:47
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:48
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:49
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:49
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:50
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:51
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:52
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:53
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:26:55
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:56
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:56
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:57
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:57
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:58
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:59
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:26:59
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:00
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:01
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:02
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:03
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:04
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:05
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:06
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:06
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:07
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:07
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:08
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:08
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:09
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:10
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:11
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:13
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:14
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:14
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:15
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:15
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:16
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:17
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:17
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:18
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:18
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:19
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:21
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:22
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:23
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:23
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:24
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:25
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:25
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:26
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:26
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:27
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:27
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:29
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:30
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:31
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:32
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:33
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:33
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:34
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:35
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:35
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:36
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:36
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:37
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:38
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:39
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:40
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:42
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:42
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:43
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:43
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:44
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:44
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:45
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:46
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:46
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:47
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:49
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:50
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:51
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:52
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:52
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:53
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:53
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:54
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:55
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:55
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:27:56
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:57
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:58
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:27:59
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:00
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:01
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:01
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:02
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:03
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:03
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:04
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:04
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:05
-Arquivo AM 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:06
-Arquivo AM 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:07
-Arquivo AM 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:08
-Arquivo AM 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:10
-Arquivo AM 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:10
-Arquivo AM 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:11
-Arquivo AM 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:11
-Arquivo AM 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:12
-Arquivo AM 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:12
-Arquivo AM 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:13
-Arquivo AM 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:14
-Arquivo AM 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:14
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:15
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:16
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:17
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:17
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:18
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:19
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:19
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:20
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:20
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:21
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:22
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:22
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:23
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:24
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:25
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:26
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:26
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:27
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:27
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:28
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:29
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:29
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:30
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:30
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:31
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:32
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:33
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:34
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:34
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:35
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:35
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:36
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:36
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:37
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:37
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:38
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:39
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:40
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:40
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:41
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:42
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:42
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:43
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:43
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:44
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:44
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:45
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:46
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:46
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:47
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:48
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:49
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:49
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:50
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:50
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:51
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:52
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:52
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:53
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:53
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:54
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:55
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:56
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:28:57
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:57
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:58
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:58
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:59
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:28:59
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:00
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:01
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:01
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:02
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:03
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:04
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:04
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:05
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:06
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:06
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:07
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:07
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:08
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:09
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:09
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:10
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:11
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:12
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:12
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:13
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:14
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:14
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:15
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:15
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:16
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:17
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:17
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:18
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:19
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:19
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:20
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:21
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:21
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:22
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:22
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:23
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:24
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:24
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:25
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:26
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:27
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:27
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:28
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:29
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:30
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:30
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:31
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:31
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:32
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:32
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:33
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:34
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:35
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:36
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:36
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:37
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:37
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:38
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:39
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:39
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:40
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:40
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:41
-Arquivo AP 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:42
-Arquivo AP 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:42
-Arquivo AP 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:43
-Arquivo AP 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:44
-Arquivo AP 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:44
-Arquivo AP 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:45
-Arquivo AP 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:46
-Arquivo AP 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:46
-Arquivo AP 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:47
-Arquivo AP 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:47
-Arquivo AP 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:48
-Arquivo AP 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:29:49
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:52
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:55
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:29:58
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:01
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:02
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:02
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:03
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:03
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:04
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:05
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:05
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:06
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:09
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:11
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:15
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:18
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:18
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:19
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:19
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:20
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:21
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:21
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:22
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:22
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:25
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:28
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:31
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:34
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:35
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:35
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:36
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:36
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:37
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:38
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:38
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:39
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:42
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:44
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:47
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:50
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:51
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:52
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:53
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:54
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:54
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:55
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:55
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:30:56
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:30:59
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:02
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:05
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:08
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:09
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:10
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:10
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:11
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:11
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:12
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:12
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:13
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:16
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:20
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:23
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:27
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:27
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:28
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:28
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:29
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:29
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:30
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:31
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:31
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:35
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:39
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:43
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:46
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:46
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:47
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:48
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:48
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:49
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:49
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:50
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:31:50
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:54
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:31:57
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:00
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:03
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:04
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:05
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:05
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:06
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:06
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:07
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:07
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:08
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:11
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:14
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:17
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:20
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:21
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:22
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:22
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:23
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:23
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:24
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:24
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:25
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:28
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:32
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:35
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:38
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:39
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:39
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:40
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:40
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:41
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:42
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:42
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:43
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:46
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:50
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:54
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:32:57
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:58
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:59
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:32:59
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:00
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:00
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:01
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:02
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:02
-Arquivo BA 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:06
-Arquivo BA 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:09
-Arquivo BA 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:12
-Arquivo BA 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:15
-Arquivo BA 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:16
-Arquivo BA 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:16
-Arquivo BA 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:17
-Arquivo BA 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:17
-Arquivo BA 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:18
-Arquivo BA 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:19
-Arquivo BA 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:19
-Arquivo BA 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:20
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:22
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:24
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:27
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:29
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:29
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:30
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:30
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:31
-Arquivo CE 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:32
-Arquivo CE 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:32
-Arquivo CE 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:33
-Arquivo CE 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:33
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:35
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:38
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:40
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:42
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:43
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:43
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:44
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:45
-Arquivo CE 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:45
-Arquivo CE 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:49
-Arquivo CE 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:49
-Arquivo CE 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:33:50
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:52
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:55
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:33:57
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:00
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:00
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:01
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:01
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:02
-Arquivo CE 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:02
-Arquivo CE 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:03
-Arquivo CE 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:04
-Arquivo CE 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:04
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:06
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:08
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:11
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:13
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:13
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:14
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:15
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:15
-Arquivo CE 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:16
-Arquivo CE 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:16
-Arquivo CE 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:17
-Arquivo CE 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:17
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:20
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:22
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:24
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:26
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:27
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:27
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:28
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:29
-Arquivo CE 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:29
-Arquivo CE 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:30
-Arquivo CE 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:30
-Arquivo CE 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:31
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:34
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:36
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:38
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:40
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:40
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:41
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:42
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:42
-Arquivo CE 9/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:43
-Arquivo CE 10/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:43
-Arquivo CE 11/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:44
-Arquivo CE 12/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:44
-Arquivo CE 1/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:47
-Arquivo CE 2/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:49
-Arquivo CE 3/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:51
-Arquivo CE 4/2023 capturado com sucesso!... Tempo de execução: 2023-07-05 12:34:53
-Arquivo CE 5/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:54
-Arquivo CE 6/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:54
-Arquivo CE 7/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:55
-Arquivo CE 8/2023 não encontrado!... Tempo de execução: 2023-07-05 12:34:55
+AC 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:43
+AC 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:43
+AP 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:43
+AP 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:43
+AP 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:43
+AC 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:44
+MS 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:44
+MS 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:44
+MS 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:45
+AM 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:45
+AM 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:45
+AM 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:46
+AL 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:46
+AL 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:46
+AL 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:47
+ES 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:47
+DF 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:47
+ES 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:47
+DF 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:47
+DF 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:48
+ES 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:48
+GO 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:48
+GO 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:48
+GO 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:49
+BA 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:49
+BA 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:49
+BA 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:50
+MA 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:51
+MA 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:51
+MA 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:51
+CE 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:51
+CE 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:51
+CE 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:52
+AP 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:53
+AC 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:53
+MS 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:55
+AC 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:55
+AC 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:55
+AP 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:55
+AP 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:16:55
+AC 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:55
+AM 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:55
+AP 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:16:55
+AL 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:55
+DF 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:56
+BA 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:59
+ES 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:16:59
+MG 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:59
+MS 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:16:59
+MS 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:00
+MG 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:00
+AL 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:00
+MS 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:00
+AL 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:00
+AM 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:00
+AM 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:00
+MG 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:00
+AL 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:00
+AM 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:00
+GO 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:01
+DF 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:01
+DF 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:01
+BA 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:01
+BA 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:01
+BA 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:01
+DF 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:02
+ES 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:02
+ES 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:02
+MA 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:02
+ES 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:02
+AP 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:02
+BA 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:02
+AC 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:03
+CE 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:03
+AP 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:05
+AP 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:05
+AC 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:05
+AC 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:05
+AP 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:05
+AC 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:06
+GO 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:06
+GO 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:06
+GO 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:06
+AL 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:08
+AM 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:08
+MS 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:09
+MA 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:10
+MA 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:11
+MA 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:11
+CE 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:12
+DF 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:12
+CE 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:12
+AL 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:12
+AL 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:12
+CE 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:12
+AM 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:13
+AL 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:13
+AM 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:13
+AM 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:13
+MS 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:13
+MS 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:13
+MS 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:14
+AP 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:14
+AC 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:14
+ES 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:14
+BA 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:15
+DF 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:15
+DF 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:16
+MG 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:16
+BA 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:16
+DF 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:16
+BA 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:16
+AC 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:16
+AC 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:16
+AC 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:17
+AP 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:17
+AP 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:17
+AP 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:17
+ES 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:18
+ES 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:18
+ES 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:18
+GO 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:18
+AM 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:18
+AL 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:18
+AM 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:19
+AM 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:19
+AM 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:19
+MS 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:20
+AM 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:21
+MA 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:21
+AC 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:23
+CE 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:23
+AL 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:23
+AL 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:24
+AP 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:24
+AL 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:24
+MS 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:25
+MS 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:25
+MS 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:25
+DF 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:26
+GO 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:26
+AM 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:26
+GO 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:26
+AC 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:26
+AC 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:26
+AM 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:26
+AC 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:26
+GO 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:26
+AM 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:26
+AP 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:27
+AP 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:27
+AP 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:27
+ES 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:30
+DF 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:31
+DF 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:31
+MA 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:31
+MA 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:31
+DF 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:31
+MA 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:31
+BA 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:31
+MG 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:32
+CE 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:32
+MG 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:32
+CE 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:32
+MG 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:33
+CE 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:33
+AL 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:33
+ES 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:33
+ES 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:34
+AP 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:34
+AC 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:34
+ES 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:34
+MS 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:34
+AM 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:35
+AP 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:36
+AP 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:36
+AL 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:37
+AP 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:37
+AL 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:37
+AC 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:37
+AC 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:37
+AL 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:37
+AC 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:37
+MS 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:38
+MS 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:38
+MS 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:38
+GO 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:38
+AM 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:39
+AM 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:39
+AM 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:39
+BA 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:39
+BA 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:39
+BA 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:39
+DF 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:39
+MA 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:41
+GO 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:41
+GO 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:41
+GO 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:41
+ES 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:42
+DF 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:42
+DF 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:42
+AP 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:42
+CE 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:42
+DF 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:42
+AC 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:42
+AL 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:42
+MG 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:42
+MS 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:44
+AC 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:45
+AC 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:45
+AP 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:45
+AP 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:45
+AP 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:45
+AC 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:45
+AM 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:46
+ES 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:46
+AL 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:46
+ES 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:46
+MA 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:46
+AL 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:46
+MA 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:47
+ES 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:47
+AL 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:47
+MA 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:47
+MS 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:48
+MS 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:48
+MS 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:48
+MG 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:49
+AM 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:49
+MG 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:49
+AM 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:49
+AM 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:50
+MG 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:50
+CE 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:50
+CE 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:50
+CE 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:50
+BA 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:50
+DF 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:50
+GO 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:50
+AC 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:50
+AP 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:51
+AL 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:51
+MS 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:52
+AC 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:53
+AC 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:53
+ES 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:53
+AC 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:53
+DF 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:53
+AP 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:54
+AP 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:54
+DF 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:54
+AP 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:54
+DF 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:54
+AL 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:55
+AL 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:55
+AL 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:55
+GO 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:56
+GO 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:56
+MS 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:56
+MS 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:56
+GO 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:56
+AM 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:56
+MS 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:56
+MA 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:56
+ES 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:57
+ES 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:57
+ES 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:57
+MG 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:17:59
+AM 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:17:59
+AM 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:17:59
+AM 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:17:59
+BA 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:00
+CE 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:00
+BA 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:00
+BA 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:00
+CE 05/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:18:00
+AC 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:00
+AP 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:01
+MA 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:01
+MA 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:01
+MA 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:01
+AL 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:01
+DF 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:02
+AP 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:02
+AP 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:02
+AC 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:03
+AC 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:03
+MS 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:03
+AP 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:03
+AC 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:03
+AL 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:06
+AL 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:06
+ES 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:06
+AL 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:06
+GO 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:06
+DF 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:06
+DF 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:07
+ES 07/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:18:07
+DF 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:07
+MS 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:07
+MS 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:07
+MS 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:07
+AM 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:07
+CE 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:08
+CE 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:08
+CE 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:09
+ES 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:10
+ES 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:11
+ES 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:11
+AP 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:11
+GO 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:11
+AM 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:11
+AM 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:11
+GO 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:11
+AM 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:11
+GO 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:11
+MG 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:11
+MG 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:12
+AC 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:12
+MG 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:12
+BA 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:12
+AP 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:12
+AP 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:12
+AP 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:12
+MA 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:13
+AL 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:13
+AC 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:13
+AC 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:13
+AC 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:13
+MS 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:13
+DF 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:13
+MS 09/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:18:14
+AL 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:17
+AL 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:17
+AL 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:17
+AM 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:18
+MS 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:18
+MS 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:18
+MS 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:18
+ES 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:18
+DF 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:19
+DF 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:19
+DF 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:19
+AP 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:19
+MA 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:19
+MA 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:19
+MA 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:19
+CE 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:20
+GO 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:21
+BA 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:21
+AM 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:21
+BA 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:21
+AM 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:21
+AC 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:21
+AP 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:21
+AP 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:22
+BA 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:22
+AM 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:22
+AP 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:22
+ES 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:22
+ES 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:22
+ES 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:22
+MG 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:24
+AC 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:24
+AC 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:24
+AC 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:24
+GO 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:25
+AL 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:25
+GO 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:25
+GO 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:25
+CE 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:26
+MS 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:26
+CE 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:26
+CE 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:26
+DF 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:26
+AP 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:27
+MS 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:29
+MS 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:29
+MS 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:29
+AP 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:29
+AP 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:30
+AL 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:30
+AL 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:30
+AP 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:30
+AM 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:30
+MA 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:30
+AL 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:30
+AC 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:30
+DF 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:30
+DF 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:30
+DF 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:30
+ES 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:31
+MG 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:32
+MG 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:32
+AC 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:32
+AC 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:32
+AC 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:33
+AM 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:33
+AM 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:33
+MG 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:33
+BA 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:33
+AM 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:33
+ES 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:34
+ES 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:34
+ES 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:34
+GO 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:35
+MA 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:35
+AP 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:35
+MA 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:35
+MA 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:35
+MS 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:36
+CE 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:36
+AL 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:37
+DF 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:38
+AC 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:39
+Arquivo 'base_/2020_AP-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:18:39
+MS 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:39
+MS 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:39
+CE 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:39
+CE 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:40
+MS 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:40
+CE 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:40
+GO 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:41
+BA 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:41
+GO 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:41
+AL 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:41
+AL 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:41
+BA 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:41
+AL 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:42
+GO 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:42
+BA 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:42
+AM 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:42
+DF 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:42
+DF 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:42
+DF 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:42
+MT 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:43
+MT 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:43
+ES 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:43
+MT 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:43
+Arquivo 'base_/2020_AC-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:18:44
+AM 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:44
+AM 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:44
+MG 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:44
+ES 11/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:18:44
+AM 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:44
+MA 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:45
+CE 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:45
+MS 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:45
+MA 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:47
+MA 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:47
+MA 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:47
+ES 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:48
+ES 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:48
+ES 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:48
+AL 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:48
+DF 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:49
+PA 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:51
+MT 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:51
+PA 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:51
+PA 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:51
+GO 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:51
+BA 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:52
+AL 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:52
+AL 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:52
+AL 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:52
+AM 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:53
+CE 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:53
+CE 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:53
+DF 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:53
+DF 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:53
+CE 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:54
+DF 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:54
+MT 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:55
+MT 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:55
+MT 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:55
+MA 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:18:56
+GO 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:58
+GO 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:58
+GO 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:59
+MG 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:59
+MA 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:18:59
+MA 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:59
+MA 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:59
+MG 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:18:59
+MG 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:18:59
+ES 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:00
+BA 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:01
+AL 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:01
+BA 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:01
+BA 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:01
+DF 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:02
+Arquivo 'base_/2020_MS-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:19:02
+PA 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:02
+MT 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:02
+DF 12/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:02
+MA 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:03
+PA 02/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:03
+CE 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:03
+Arquivo 'base_/2020_AM-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:19:04
+CE 10/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:04
+PB 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:04
+PB 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:04
+PB 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:04
+PE 01/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:05
+MT 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:05
+MT 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:05
+MT 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:06
+PE 02/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:06
+GO 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:07
+GO 10/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:08
+MA 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:11
+MG 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:11
+MA 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:11
+MA 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:11
+PA 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:13
+PA 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:13
+PA 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:13
+CE 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:14
+CE 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:14
+CE 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:14
+GO 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:14
+GO 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:15
+GO 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:15
+BA 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:15
+PE 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:15
+PE 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:15
+PE 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:15
+PB 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:15
+Arquivo 'base_/2020_AL-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:19:15
+PB 02/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:16
+MT 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:16
+PB 03/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:17
+Arquivo 'base_/2020_ES-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:19:20
+PI 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:20
+PI 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:20
+MT 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:20
+MT 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:21
+PR 01/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:21
+MT 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:21
+PI 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:21
+PB 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:21
+PB 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:21
+PB 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:21
+Arquivo 'base_/2020_DF-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:19:21
+BA 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:22
+BA 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:22
+BA 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:22
+MA 10/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:24
+PA 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:25
+MG 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:25
+PA 04/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:25
+CE 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:26
+MG 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:26
+RJ 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:26
+MG 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:26
+RJ 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:26
+RJ 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:26
+GO 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:27
+GO 12/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:28
+PE 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:29
+MT 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:30
+PB 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:31
+MA 11/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:31
+MA 11/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:32
+MA 11/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:32
+PI 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:32
+PR 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:33
+PR 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:33
+PA 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:33
+PA 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:33
+PR 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:33
+PA 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:34
+PB 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:35
+MT 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:35
+CE 12/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:35
+PB 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:35
+MT 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:35
+CE 12/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:35
+PB 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:35
+MT 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:35
+CE 12/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:35
+BA 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:36
+BA 10/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:36
+PI 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:37
+PI 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:37
+PI 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:37
+PE 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:37
+PE 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:37
+PE 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:37
+BA 11/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:37
+RJ 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:38
+BA 12/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:38
+MG 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:39
+PB 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:40
+MT 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:40
+MA 11/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:40
+PA 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:41
+MA 12/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:41
+RJ 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:41
+RJ 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:42
+RJ 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:42
+PA 06/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:42
+PB 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:42
+PB 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:42
+PR 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:42
+PB 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:42
+MT 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:43
+MT 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:43
+PI 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:43
+MT 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:43
+CE 12/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:43
+PE 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:44
+PE 05/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:44
+PI 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:45
+PI 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:45
+PI 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:45
+PB 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:46
+MT 06/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:46
+MT 07/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:19:47
+RJ 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:47
+Arquivo 'base_/2020_GO-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:19:48
+PI 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:19:51
+RN 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:19:52
+RN 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:19:52
+RN 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:19:52
+PB 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:11
+PB 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:11
+RN 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:11
+PB 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:11
+PA 07/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:13
+MT 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:13
+MT 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:13
+PA 07/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:13
+MT 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:14
+PA 07/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:14
+PI 04/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:20
+PI 04/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:21
+PI 04/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:21
+Arquivo 'base_/2020_MA-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:20:21
+RO 01/2020 - Arquivo não encontrado!......................... Tempo de execução: 2023-07-05 17:20:22
+Arquivo 'base_/2020_BA-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:20:24
+MG 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:27
+MG 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:27
+MG 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:28
+PB 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:30
+MT 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:31
+Arquivo 'base_/2020_CE-base_sih.csv' salvo com sucesso!...... Tempo de execução: 2023-07-05 17:20:33
+PA 07/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:35
+PI 04/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:36
+RN 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:39
+RN 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:39
+RN 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:40
+RR 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:41
+RR 01/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:41
+RR 01/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:41
+RO 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:42
+RO 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:42
+RO 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:42
+PR 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:42
+PR 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:42
+MG 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:43
+PR 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:43
+RJ 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:48
+RJ 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:48
+RJ 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:49
+RR 01/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:50
+PB 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:51
+MT 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:51
+PB 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:51
+MT 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:51
+PB 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:51
+MT 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:51
+RN 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:51
+RO 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:20:54
+PI 05/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:20:55
+PI 05/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:20:55
+PI 05/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:20:55
+PR 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:01
+PB 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:03
+MT 09/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:04
+RR 02/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:05
+RR 02/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:05
+RR 02/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:05
+RJ 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:08
+PI 05/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:11
+RO 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:12
+RO 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:12
+RO 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:12
+PA 08/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:13
+PA 08/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:13
+PA 08/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:13
+RN 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:14
+RN 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:14
+RN 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:14
+RR 02/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:15
+RO 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:23
+PB 09/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:28
+PB 09/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:29
+PB 09/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:30
+MT 10/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:30
+MT 10/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:30
+MT 10/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:31
+RN 03/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:33
+PI 06/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:38
+PI 06/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:38
+PI 06/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:39
+PA 08/2020 - Tipo de dado das colunas alterado com sucesso!.. Tempo de execução: 2023-07-05 17:21:39
+RR 03/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:39
+RR 03/2020 - Arquivo tratado com sucesso!.................... Tempo de execução: 2023-07-05 17:21:39
+RR 03/2020 - Novas colunas criadas com sucesso!.............. Tempo de execução: 2023-07-05 17:21:40
+RS 01/2020 - Arquivo capturado com sucesso!.................. Tempo de execução: 2023-07-05 17:21:41
