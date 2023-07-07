@@ -8,7 +8,7 @@ import numpy as np                                      # numpy para manipulaç�
 import os                                               # os para manipulação de arquivos
 from pysus.online_data import cache_contents            # pysus para captar dados do DATASUS
 from pysus.online_data import parquets_to_dataframe     # pysus para captar dados do DATASUS - parquets_to_dataframe
-from pysus.online_data.SIH import download              # pysus para captar dados do DATASUS - download
+from pysus.online_data.SIA import download              # pysus para captar dados do DATASUS - download
 import concurrent.futures                               # concurrent.futures para paralelizar o código
 
 # Criando pasta para armazenar os arquivos
@@ -18,7 +18,7 @@ arquivos_csv = os.listdir(pasta)
 dataframes = []
 
 # Criando arquivo para armazenar o histórico de execução
-historico = open("historico_SIH.txt", "w")
+historico = open("historico_SIA.txt", "w")
 
 # Comando para exibir todas colunas do arquivo
 pd.set_option('display.max_columns', None)
